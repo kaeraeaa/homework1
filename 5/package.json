@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@pnotify/core": "^5.2.0"
+  }
+}
